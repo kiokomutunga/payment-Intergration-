@@ -1,0 +1,23 @@
+{
+  "name": "payment-intergration-",
+  "version": "1.0.0",
+  "description": "my journey learning payment intergration and apis in softwares",
+  "homepage": "https://github.com/kiokomutunga/payment-Intergration-#readme",
+  "bugs": {
+    "url": "https://github.com/kiokomutunga/payment-Intergration-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiokomutunga/payment-Intergration-.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
